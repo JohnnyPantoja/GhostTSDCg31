@@ -1,9 +1,13 @@
-# GhostTesting
+## GhostTesting
 
 Repositorio creado para que The Software Design Company (TSDC) realice las pruebas sobre el sistema Ghost
-
-# Proyecto Pruebas Automatizadas - Grupo 31
 ________________
+## Wiki
+
+[Wiki](https://github.com/JohnnyPantoja/GhostTSDCg31/wiki)
+________________
+# Proyecto Pruebas Automatizadas - Grupo 31
+
 ## Integrantes
 
 | Integrante | Correo|
