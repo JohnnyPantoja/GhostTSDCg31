@@ -1,6 +1,6 @@
 ## GhostTesting
 
-Repositorio creado para que The Software Design Company (TSDC) realice las pruebas sobre el sistema Ghost
+Repositorio creado para que The Software Design Company (TSDC) realice las pruebas sobre el sistema Ghost.
 ________________
 ## Wiki
 
@@ -8,9 +8,11 @@ ________________
 ________________
 # Proyecto Pruebas Automatizadas - Grupo 31
 
-## Integrantes
+## Integrante
 
 | Integrante | Correo|
 |--------|--------|
 |    Johnny Pantoja    |    jm.pantoja@uniandes.edu.co    |
-
+________________
+## Playwrght
+Se utiliza
