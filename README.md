@@ -26,6 +26,21 @@ F03 | Crear post | Verificar la correcta creación de un post para el sitio | Pl
 F04 | Editar tag | Verificar la correcta creación de una tag para el sitio | Playwright & Resemble|
 F05 | Eliminar tag | Verificar la correcta eliminación de un tag para el sitio | Playwright & Resemble|
 
+# Descripción de los escenarios a comparar con resemble
+
+ID | Escenario | Funcionalidad | Playwriht | Resemble 
+|--------|--------|--------|--------|--------|
+E01 | Login -> Ir a 'Pages' -> Crear una nueva página -> Agregar título a la página   | F01  |  ✓  |
+E02 | Login -> Ir a 'Pages' -> Crear una nueva página -> Agregar título a la página -> Agregar Texto a la página  | F01  |  ✓  |
+E03 | ogin -> Ir a 'Pages' -> Crear una nueva página -> Agregar título a la página -> Agregar Texto a la página -> Devolverse al 'Home' -> Buscar titulo de la página -> Ir a la página creada | F01  |  ✓  |
+E04 | Login -> Ir a 'Pages' -> Crear una nueva página -> Agregar título a la página -> Agregar Texto a la página -> Publicar la página  |  F01 |  ✓  |
+E05 | Login -> Ir a 'Pages' -> Editar una nueva página -> Editar título a la página -> Gggggggggggggguardar | F02  |  ✓  |
+E06 | Login -> Ir a 'Pages' -> Editar una nueva página -> Agregar título a la página -> Agregar Texto a la página | F02  |  ✓  |
+E07 | Login -> Ir a 'Pages' -> Editar una nueva página -> Agregar título a la página -> Agregar Texto a la página | F02  |  ✓  |
+E08 | Login -> Ir a 'Pages' -> Editar una nueva página -> Agregar título a la página -> Agregar Texto a la página | F02  |  ✓  |
+E09 | Login -> Ir a 'Post' -> Crear post -> Agregar título al post -> Agregar Texto al post -> Publicar | F03  |  ✓  |
+E10 | Login -> Ir a 'Post' -> Crear post -> ir ATRAAS -> ir a 'Pages' -> ir a 'Post' -> Crear post -> Agregar título al post -> Agregar Texto a la página | F03  |  ✓  |
+
 
 ## Software utilizado
 
