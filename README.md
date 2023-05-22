@@ -30,10 +30,13 @@ F05 | Eliminar tag | Verificar la correcta eliminación de un tag para el sitio 
 ## Software utilizado
 
 ### Playwright 9.6.6
+### Resemble
+## Sistema bajo pruebas
 ### Ghost 5.46.1
 ### Ghost 3.42
-### Resemble
 
+
+## Pasos para ejecutar 
 
 Se utiliza Playwright para tomar los pantallazos de las diferentes estapas de los escenarios
 
