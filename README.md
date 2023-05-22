@@ -28,6 +28,13 @@ F05 | Eliminar tag | Verificar la correcta eliminación de un tag para el sitio 
 
 
 ## Software utilizado
-Se utiliza
+
+### Playwright 9.6.6
+### Ghost 5.46.1
+### Ghost 3.42
+### Resemble
+
+
+Se utiliza Playwright para tomar los pantallazos de las diferentes estapas de los escenarios
 
 especificar las versiones del sistema bajo pruebas, y las versiones de las herramientas y dependencias, puertos, usuarios, etc. Si al seguir el readme las pruebas no se ejecutan no podemos calificar los casos de prueba ni las implementaciones de regresión visual. Hagan los readme como una receta, para alguien que nunca ha ejecutado los pasos. Hagan el readme para que no sea propenso a errores, por ejemplo que no nos toque modificar varios archivo
